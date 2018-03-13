@@ -1,0 +1,26 @@
+Patterning format (FEI or NVPE)
+FEI
+Primary electron beam energy [keV]
+30
+Primary electron beam current [pA]
+21
+Primary electron beam size {FWHM} [nm]
+4.1
+Precursor gas type
+Pt
+Precursor temperature [C]
+45
+Precursor gas nozzle position {x} [um]
+0
+Precursor gas nozzle position {y} [um]
+150
+Precursor gas nozzle positions {z} [um]
+100
+Precursor gas nozzle angle [deg]
+52
+Substrate
+5nmSiO2/Si
+(Magnification)*(Horizontal field width [um])
+128000
+Patterning bit depth (12 or 16)
+12

@@ -1,0 +1,14 @@
+Basis Vector #1 (magnitude) [nm]
+500
+Basis Vector #1 (direction) [degrees]
+10
+Number of nodes {x}
+3
+Basis Vector #2 (magnitude) [nm]
+500
+Basis Vector #2 (direction) [degrees]
+80
+Number of nodes {y}
+2
+Array exposure (continuous = 0, intermittent = 1)
+0
