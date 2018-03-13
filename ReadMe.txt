@@ -1,3 +1,11 @@
+Program execution
+-----------------------------------------------------------------------
+The program is executed using FEBiD_CAD_v9p2.m.  The following files/folders must also be present in the same directory as the program;
+
+file -> ArrayRequest.txt
+folder -> FEBiD 3D CAD (Support Files)
+
+
 GUI sizing and scaling
 -----------------------------------------------------------------------
 The GUI size and scaling can be changed using the text file;
